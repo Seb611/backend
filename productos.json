@@ -1,0 +1,35 @@
+[
+	{
+		"nombre": "Mouse",
+		"precio": "714.00",
+		"stock": 111,
+		"marca": "Garden",
+		"categoria": "Handmade Cotton Soap",
+		"detalles": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+		"envio": false,
+		"foto": "https://loremflickr.com/640/480/technics",
+		"id": "5"
+	},
+	{
+		"nombre": "Car",
+		"precio": "765.00",
+		"stock": 90,
+		"marca": "Automotive",
+		"categoria": "Oriental Fresh Sausages",
+		"detalles": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+		"envio": false,
+		"foto": "https://loremflickr.com/640/480/nightlife",
+		"id": "6"
+	},
+	{
+		"nombre": "Mouse2",
+		"precio": "714.00",
+		"stock": 49,
+		"marca": "Garden",
+		"categoria": "Handmade Cotton Soap",
+		"detalles": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+		"envio": false,
+		"foto": "https://loremflickr.com/640/480/technics",
+		"id": "7"
+	}
+]
