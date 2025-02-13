@@ -1,6 +1,6 @@
-import ModelMem from "./productosMem.js";
 import ModelFile from "./productosFile.js";
 import ModelMongoDB from "./productosMongoDB.js";
+import ModelMem from "./productosMem.js";
 
 class ModelFactory {
     static get(tipo) {
